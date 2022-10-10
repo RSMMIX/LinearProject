@@ -12,3 +12,8 @@ from sklearn import metrics
 import warnings
 # warnings.filterwarnings('ignore')
 # %matplotlib inline
+
+#Loading Data
+df = pd.read_csv('./Cleaned-Data.csv') 
+
+
